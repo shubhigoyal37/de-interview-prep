@@ -28,3 +28,4 @@ Platforms without problem numbers use the kebab-case title only.
 
 | Lang | Platform | # | Title | Difficulty | Solved | Hint | Redo | File |
 |------|----------|---|-------|------------|--------|------|------|------|
+| SQL | LeetCode | 570 | Managers with at Least 5 Direct Reports | Medium | unknown | unknown | yes | [0570](sql/leetcode/0570-managers-with-at-least-5-direct-reports.sql) |
