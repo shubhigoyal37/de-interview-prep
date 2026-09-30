@@ -40,3 +40,4 @@ Platforms without problem numbers use the kebab-case title only.
 | SQL | LeetCode | 183 | Customers Who Never Order | Easy | 2026-09-30 | no | no | [0183](sql/leetcode/0183-customers-who-never-order.sql) |
 | SQL | LeetCode | 1045 | Customers Who Bought All Products | Medium | 2026-09-30 | no | no | [1045](sql/leetcode/1045-customers-who-bought-all-products.sql) |
 | SQL | LeetCode | 1164 | Product Price at a Given Date | Medium | 2026-09-30 | yes | no | [1164](sql/leetcode/1164-product-price-at-a-given-date.sql) |
+| SQL | LeetCode | 1789 | Primary Department for Each Employee | Easy | 2026-10-01 | no | no | [1789](sql/leetcode/1789-primary-department-for-each-employee.sql) |
