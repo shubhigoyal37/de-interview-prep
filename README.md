@@ -30,3 +30,4 @@ Platforms without problem numbers use the kebab-case title only.
 |------|----------|---|-------|------------|--------|------|------|------|
 | SQL | LeetCode | 570 | Managers with at Least 5 Direct Reports | Medium | unknown | unknown | yes | [0570](sql/leetcode/0570-managers-with-at-least-5-direct-reports.sql) |
 | SQL | LeetCode | 1633 | Percentage of Users Attended a Contest | Easy | 2026-09-30 | yes | no | [1633](sql/leetcode/1633-percentage-of-users-attended-a-contest.sql) |
+| SQL | LeetCode | 1729 | Find Followers Count | Easy | 2026-09-30 | no | no | [1729](sql/leetcode/1729-find-followers-count.sql) |
