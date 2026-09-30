@@ -35,3 +35,4 @@ Platforms without problem numbers use the kebab-case title only.
 | SQL | LeetCode | 1934 | Confirmation Rate | Medium | 2026-09-30 | yes | no | [1934](sql/leetcode/1934-confirmation-rate.sql) |
 | SQL | LeetCode | 1251 | Average Selling Price | Easy | 2026-09-30 | yes | no | [1251](sql/leetcode/1251-average-selling-price.sql) |
 | SQL | LeetCode | 1280 | Students and Examinations | Easy | 2026-09-30 | no | no | [1280](sql/leetcode/1280-students-and-examinations.sql) |
+| SQL | LeetCode | 511 | Game Play Analysis I | Easy | 2026-09-30 | no | no | [0511](sql/leetcode/0511-game-play-analysis-i.sql) |
