@@ -36,3 +36,4 @@ Platforms without problem numbers use the kebab-case title only.
 | SQL | LeetCode | 1251 | Average Selling Price | Easy | 2026-09-30 | yes | no | [1251](sql/leetcode/1251-average-selling-price.sql) |
 | SQL | LeetCode | 1280 | Students and Examinations | Easy | 2026-09-30 | no | no | [1280](sql/leetcode/1280-students-and-examinations.sql) |
 | SQL | LeetCode | 511 | Game Play Analysis I | Easy | 2026-09-30 | no | no | [0511](sql/leetcode/0511-game-play-analysis-i.sql) |
+| SQL | LeetCode | 550 | Game Play Analysis IV | Medium | 2026-09-30 | yes | yes | [0550](sql/leetcode/0550-game-play-analysis-iv.sql) |
