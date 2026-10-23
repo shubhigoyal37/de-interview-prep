@@ -46,3 +46,4 @@ Platforms without problem numbers use the kebab-case title only.
 | SQL | LeetCode | 1174 | Immediate Food Delivery II | Medium | 2026-10-04 | yes | yes | [1174](sql/leetcode/1174-immediate-food-delivery-ii.sql) |
 | SQL | LeetCode | 1070 | Product Sales Analysis III | Medium | 2026-10-09 | no | no | [1070](sql/leetcode/1070-product-sales-analysis-iii.sql) |
 | SQL | LeetCode | 1907 | Count Salary Categories | Medium | 2026-10-09 | yes | no | [1907](sql/leetcode/1907-count-salary-categories.sql) |
+| SQL | LeetCode | 602 | Friend Requests II: Who Has the Most Friends | Medium | 2026-10-23 | no | yes | [0602](sql/leetcode/0602-friend-requests-ii-who-has-the-most-friends.sql) |
